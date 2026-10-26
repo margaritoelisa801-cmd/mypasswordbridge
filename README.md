@@ -4,6 +4,12 @@ Starter project for an encrypted local credential vault and a deliberately disab
 
 Project website: [mypasswordbridge.infinityfree.io](https://mypasswordbridge.infinityfree.io/?i=1)
 
+## Supporto
+
+Se vuoi supportare lo sviluppo di MyPasswordBridge, puoi inviare un'offerta tramite PayPal:
+
+[Invia un'offerta su PayPal](https://www.paypal.com/paypalme/ElisaMargarito)
+
 ## Requirements
 - Android Studio with JDK 17
 - Android SDK 35
