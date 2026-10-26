@@ -1,6 +1,8 @@
-# KeyBridge starter (Android/Kotlin)
+# MyPasswordBridge starter (Android/Kotlin)
 
 Starter project for an encrypted local credential vault and a deliberately disabled USB HID boundary.
+
+Project website: [mypasswordbridge.infinityfree.io](https://mypasswordbridge.infinityfree.io/?i=1)
 
 ## Requirements
 - Android Studio with JDK 17
